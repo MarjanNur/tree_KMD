@@ -4,7 +4,7 @@
         "name": "NODE NAME 1",
         "type": "type0",
         "code": "N1",
-        "label": "Node name 1",
+        "label": "",
         "version": "v1.0",
         "link": {
             "name": "Link NODE NAME 1",
@@ -17,7 +17,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -30,7 +30,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -916,7 +916,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -1414,7 +1414,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -1427,7 +1427,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -1637,7 +1637,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -1782,7 +1782,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -1875,7 +1875,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -1981,7 +1981,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -2139,7 +2139,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -2219,7 +2219,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -2351,7 +2351,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -2444,7 +2444,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -2643,7 +2643,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -2656,7 +2656,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -2918,7 +2918,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -3323,7 +3323,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -3650,7 +3650,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -3938,7 +3938,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -4098,7 +4098,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -4111,7 +4111,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -4347,7 +4347,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -4622,7 +4622,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -4871,7 +4871,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -4990,7 +4990,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -5317,7 +5317,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -5709,7 +5709,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -5945,7 +5945,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -6051,7 +6051,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -6482,7 +6482,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -6640,7 +6640,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -6811,7 +6811,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -7036,7 +7036,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -7049,7 +7049,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -7428,7 +7428,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -7926,7 +7926,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -7939,7 +7939,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -8175,7 +8175,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -8333,7 +8333,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -8595,7 +8595,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -8766,7 +8766,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -8950,7 +8950,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -9271,7 +9271,7 @@
                                 }
                             },
                             {
-                                "nodeName": "Регулирование счетов  государственныхучреждений в банках второго уровня",
+                                "nodeName": "Регулирование счетов  государственных учреждений в банках второго уровня",
                                 "name": "NODE NAME 1",
                                 "type": "type3",
                                 "code": "N1",
@@ -9290,7 +9290,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -9409,7 +9409,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -9528,7 +9528,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -9790,7 +9790,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -10078,7 +10078,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -10262,7 +10262,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -10433,7 +10433,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -10604,7 +10604,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -10881,7 +10881,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -10894,7 +10894,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -11234,7 +11234,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -11288,7 +11288,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -11357,7 +11357,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -11370,7 +11370,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -11580,7 +11580,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -11608,7 +11608,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -11870,7 +11870,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12017,7 +12017,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -12030,7 +12030,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12071,7 +12071,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12255,7 +12255,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12270,7 +12270,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -12283,7 +12283,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12441,7 +12441,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12599,7 +12599,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12731,7 +12731,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12865,7 +12865,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -12878,7 +12878,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -12984,7 +12984,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -13129,7 +13129,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -13313,7 +13313,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -13395,7 +13395,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -13408,7 +13408,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -13826,7 +13826,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -13945,7 +13945,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -14144,7 +14144,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -14157,7 +14157,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -14289,7 +14289,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -14603,7 +14603,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -15021,7 +15021,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -15244,7 +15244,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -15402,7 +15402,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -15450,7 +15450,7 @@
                                 }
                             },
                             {
-                                "nodeName": "Пропаганда знаний, обучение населения, должностных лиц и специалистов организаций в области пожарной безопасности",
+                                "nodeName": "Пропаганда знаний, обучение населения, должностных лиц  и специалистов организаций в области пожарной безопасности",
                                 "name": "NODE NAME 1",
                                 "type": "type6",
                                 "code": "N1",
@@ -15625,7 +15625,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -15822,7 +15822,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -16006,7 +16006,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -16047,7 +16047,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -16075,7 +16075,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -16103,7 +16103,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -16469,7 +16469,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -16809,7 +16809,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -17201,7 +17201,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -17411,7 +17411,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -17686,7 +17686,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -17961,7 +17961,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -18379,7 +18379,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -18446,7 +18446,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -18500,7 +18500,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -18710,7 +18710,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -18779,7 +18779,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -18792,7 +18792,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -18911,7 +18911,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19004,7 +19004,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19110,7 +19110,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19164,7 +19164,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19192,7 +19192,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19220,7 +19220,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19261,7 +19261,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19304,7 +19304,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -19317,7 +19317,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19475,7 +19475,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19503,7 +19503,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19596,7 +19596,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19624,7 +19624,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19821,7 +19821,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -19901,7 +19901,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20191,7 +20191,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -20204,7 +20204,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20323,7 +20323,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20351,7 +20351,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20509,7 +20509,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20576,7 +20576,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20630,7 +20630,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20725,7 +20725,7 @@
                 "name": "NODE NAME 1",
                 "type": "type1",
                 "code": "N1",
-                "label": "Node name 1",
+                "label": "",
                 "version": "v1.0",
                 "link": {
                     "name": "Link NODE NAME 1",
@@ -20738,7 +20738,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20870,7 +20870,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20898,7 +20898,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
@@ -20991,7 +20991,7 @@
                         "name": "NODE NAME 1",
                         "type": "type2",
                         "code": "N1",
-                        "label": "Node name 1",
+                        "label": "",
                         "version": "v1.0",
                         "link": {
                             "name": "Link NODE NAME 1",
