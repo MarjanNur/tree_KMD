@@ -1,0 +1,238 @@
+{
+    "tree": {
+        "nodeName": "Карта Процессов",
+        "name": "NODE NAME 1",
+        "type": "type0",
+        "code": "N1",
+        "label": " ",
+        "version": 1,
+        "link": {
+            "name": "Link NODE NAME 1",
+            "nodeName": "NODE NAME 1",
+            "direction": "SYNC"
+        },
+        "children": [
+            {
+                "nodeName": "Бизнес",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Внешняя политика",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Государственное управление",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Здравоохранение",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Инфраструктура",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Культура, СМИ, религия",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Наука и Иннновации",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Образование",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Правосудие и безопасность",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Природные ресурсы и экология",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Промышленность",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Сельское Хозяйство",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Социальное обеспечение",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Спорт и туризм",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Транспорт",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Финансы",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            },
+            {
+                "nodeName": "Энергетика",
+                "name": "NODE NAME 1",
+                "type": "type1",
+                "code": "N1",
+                "label": " ",
+                "version": 1,
+                "link": {
+                    "name": "Link NODE NAME 1",
+                    "nodeName": "NODE NAME 1",
+                    "direction": "SYNC"
+                }
+            }
+        ]
+    }
+}
